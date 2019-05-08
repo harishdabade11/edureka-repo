@@ -1,2 +1,3 @@
 test merging
 line after commit before stashing
+stashing
